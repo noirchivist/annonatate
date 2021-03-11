@@ -1,0 +1,5 @@
+---
+canvas: "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001"
+order: 1
+---
+{"type": "Annotation", "body": [{"type": "TextualBody", "value": "test", "purpose": "commenting", "created": "2021-03-11T17:03:38.885Z", "creator": {"id": "noirchivist", "name": "noirchivist"}, "modified": "2021-03-11T17:03:39.339Z"}], "target": {"source": "https://d.lib.ncsu.edu/collections/canvas/mc00084-001-te0159-000-001_0001", "selector": {"type": "FragmentSelector", "conformsTo": "http://www.w3.org/TR/media-frags/", "value": "xywh=pixel:3426.92041015625,1072.836181640625,282.151123046875,418.771484375"}, "dcterms:isPartOf": {"id": "https://d.lib.ncsu.edu/collections/catalog/mc00084-001-te0159-000-001_0001/manifest.json", "type": "Manifest"}}, "@context": "http://www.w3.org/ns/anno.jsonld", "id": "{{site.url}}{{site.baseurl}}/annotations/b6779a86-9a4b-496b-b1de-0a5c5e5a0a26.json"}
